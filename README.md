@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuu1999
-- 👀 I’m interested in Java. 
+- 👀 I’m mainly programming in Java and Python.  
 - 🌱 I’m currently learning business information technology in Basel, Switzerland.
 - 💞️ I’m looking to collaborate on new interesting IT Projects.
 - 📫 How to reach me: manuel.buser@students.fhnw.ch
