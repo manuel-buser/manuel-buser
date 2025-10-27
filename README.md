@@ -1,23 +1,33 @@
-# Hi, I’m Manuel Buser 👋
+# Hi, I’m Manuel Buser 👋  
 
-I'm a **Data Scientist** with a background in Business Informatics and a growing interest in **Machine Learning** and **GenAI**. Currently, I'm pursuing a **Master’s in Computer Science** with a specialization in **Machine Intelligence** at the University of Basel.
+I’m an **AI Engineer** currently working at **Helvetia Insurance**, where I design and deploy **AI Voice Agents** and backend integrations.  
+I’m also pursuing a **Master’s in Computer Science (Machine Intelligence)** at the **University of Basel**.  
 
-## 🔍 What I Do  
-- **Data Science & Analytics**: Working with Python, SQL, and SAS for data-driven decision-making.  
-- **Machine Learning & AI**: Exploring applications of GenAI and ML for automation and insights.  
-- **Cloud & Data Engineering**: Experience with ETL pipelines, databases, and cloud solutions.  
-- **Software Development**: Building APIs and automation solutions for business processes.  
+---
+
+## 🔍 What I Work On  
+- **Applied AI & GenAI** – Building LLM-powered systems, RAG pipelines, and intent-classification models.  
+- **MLOps & Cloud** – Developing microservices and CI/CD pipelines with OpenShift, Docker, and ArgoCD.  
+- **Data Engineering & Analytics** – Working with Python, SQL, SAS, and MongoDB (vector search) for data-driven insights.  
+- **Software Development** – Designing REST APIs and automation solutions that connect enterprise systems.  
+
+---
 
 ## 🚀 Interests  
-- AI applications in business  
-- Automation & process optimization  
-- Data-driven decision-making  
+- Generative AI and LLM applications  
+- Scalable AI systems & MLOps  
+- Data quality and governance  
+- Intelligent process automation  
 
-## 📫 Get in Touch  
-- **LinkedIn**: [manuel-buser](https://www.linkedin.com/in/manuel-buser)  
-- **Email**: buser.manuel@hotmail.com  
+---
 
-Looking forward to collaborating on exciting **AI & data projects**! 🚀
+## 📫 Let’s Connect  
+- **LinkedIn:** [manuel-buser](https://www.linkedin.com/in/manuel-buser)  
+- **Email:** buser.manuel@hotmail.com  
+
+Always happy to collaborate on innovative **AI, automation, and data projects** 🚀  
+
+---
 
 <!---
 manuu1999/manuu1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
